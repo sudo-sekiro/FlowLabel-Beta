@@ -6,6 +6,12 @@ FlowLabel Beta: Editor Assistant
 Thank you for participating in the FlowLabel beta! This plugin is designed to streamline your podcast editing workflow directly within Audacity.
 Please reach out if there are any issues with installation.
 
+
+
+https://github.com/user-attachments/assets/ac351815-17f1-4304-8171-943bb3c12150
+
+
+
 <img width="421" height="513" alt="image" src="https://github.com/user-attachments/assets/55b37215-3da5-432b-a2ca-e974ef729839" />
 
 
